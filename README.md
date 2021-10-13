@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Valentine 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](wigqueel)
+[![Inst](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png)](https://www.instagram.com/augustinus_aurelius/)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
