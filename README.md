@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning Python and TS
 - 💬 Ask me about React
 - 🎵 Expirienced beatmaker and producer
-- ⚡ Fun fact: I love to play ping pong
 
 ### Connect with me:
 
