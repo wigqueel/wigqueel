@@ -3,7 +3,7 @@
 
 ## I'm a Developer, and Student!
 
-- 🔭 I'm currently working on a TS, Next.js, Apollo, Chakra UI stack
+- 🔭 I'm currently working on a Next.js, React.js, TS, Apollo, Chakra UI stack
 - 🌱 I’m currently learning Python as hobbie
 - 💬 Ask me about Front-end
 - 🤖 Interested in ML, recently won a hackathon with team (2nd place)
