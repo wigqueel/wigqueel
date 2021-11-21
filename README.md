@@ -6,7 +6,7 @@
 - 🔭 I'm currently working on a TS, Next.js, Apollo, Chakra UI stack
 - 🌱 I’m currently learning Python as hobbie
 - 💬 Ask me about Front-end
-- 🤖 Interested in ML recently won a hackathon with team (2nd place)
+- 🤖 Interested in ML, recently won a hackathon with team (2nd place)
 - 🎵 Expirienced beatmaker and producer, love ping-pong 🏓  
 
 ### Connect with me:
