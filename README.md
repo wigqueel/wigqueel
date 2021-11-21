@@ -4,9 +4,9 @@
 ## I'm a Developer, and Student!
 
 - 🔭 I'm currently working on a TS, Next.js, Apollo, Chakra UI stack
-- 🌱 I’m currently learning Python and TS
-- 💬 Ask me about React
-- 🎵 Expirienced beatmaker and producer
+- 🌱 I’m currently learning Python as hobbie
+- 💬 Ask me about Front-end
+- 🎵 Expirienced beatmaker and producer, love ping-pong 🏓  
 
 ### Connect with me:
 
