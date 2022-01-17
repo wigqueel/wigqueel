@@ -1,7 +1,7 @@
 ### Hi there, I'm Valentine 👋
 
 
-## I'm a Developer and Student!
+## I'm a Developer!
 
 - 🔭 I'm currently working on a Next.js, React.js, TS, Apollo, Chakra UI stack
 - 🌱 I’m currently learning Python as a hobby
