@@ -1,10 +1,10 @@
 ### Hi there, I'm Valentine 👋
 
 
-## I'm a Developer!
+## I'm a Master's degree student!
 
-- 🔭 I'm currently working on a Next.js, React.js, TS, Apollo, Chakra UI stack
-- 🌱 I’m currently learning Python as a hobby
+- 🔭 I'm currently working on a project based on Next.js, TS, Apollo, Chakra UI and I love it!
+- 🌱 I’m learning Python as a hobby
 - 💬 Ask me about Front-end
 - 🤖 Interested in ML, recently won a hackathon with a team (2nd place)
 - 🎵 Experienced beatmaker and producer, love ping-pong 🏓  
