@@ -11,9 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Telegram" width="22px" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" />][telegram]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />][instagram]
 
 <br />
 
