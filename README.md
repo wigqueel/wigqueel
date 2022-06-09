@@ -1,7 +1,7 @@
 ### Hi there, I'm Valentine 👋
 
 
-## I'm a Master's degree student!
+## I'm a front-end dev!
 
 - 🔭 I'm currently working on a project based on Next.js, TS, Apollo, Chakra UI and I love it!
 - 🌱 I’m learning Python as a hobby
