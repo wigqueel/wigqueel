@@ -3,9 +3,9 @@
 
 ## I'm a full-stack dev!
 
-- 🔭 I'm currently working on a project based on Next.js, TypeScript, Apollo GrpahQL, Nest.js PostgreSQL, AWS and I love it!
-- 🤖 Interested in ML, recently won a hackathon with a team
-- 🎵 Love ping-pong 🏓  
+- 🔭 Building scalable products with Next.js, TypeScript, Apollo GraphQL, Nest.js, PostgreSQL, and AWS
+- 🤖 Experienced in Machine Learning: designed and deployed ML models in production, including a hackathon-winning project
+- 🏓 Passionate about system optimization, clean architecture, and ping-pong
 
 ### Connect with me:
 
