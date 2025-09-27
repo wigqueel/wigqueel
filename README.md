@@ -3,9 +3,9 @@
 
 ## I'm a full-stack dev!
 
-- 🔭 I'm currently working on a project based on Next.js, TS, Apollo, Chakra UI and I love it!
-- 🤖 Interested in ML, recently won a hackathon with a team (2nd place)
-- 🎵 Experienced beatmaker and producer, love ping-pong 🏓  
+- 🔭 I'm currently working on a project based on Next.js, TypeScript, Apollo GrpahQL, Nest.js PostgreSQL, AWS and I love it!
+- 🤖 Interested in ML, recently won a hackathon with a team
+- 🎵 Love ping-pong 🏓  
 
 ### Connect with me:
 
@@ -28,7 +28,4 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-
-[instagram]: https://www.instagram.com/augustinus_aurelius/
-[linkedin]: https://www.linkedin.com/in/valentine-g-79911917a/
-[telegram]: https://t.me/wigqueel
+[linkedin]: https://www.linkedin.com/in/valentingurin/
