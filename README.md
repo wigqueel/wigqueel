@@ -1,11 +1,12 @@
-### Hi there, I'm Valentin 👋
+## Hi there, I'm Valentin 👋  
+
+## I build scalable web systems  
+
+🚀 Focused on delivering performant, maintainable products using **Next.js**, **TypeScript**, **GraphQL**, **Nest.js**, **PostgreSQL**, and **AWS**.  
+🧠 Experienced in **Machine Learning** — from model design to production deployment, including a hackathon-winning project.  
+⚙️ Passionate about **system architecture**, **clean code**, and **performance optimization** (and occasionally, **ping-pong**).  
 
 
-## I'm a full-stack dev!
-
-- 🔭 Building scalable products with Next.js, TypeScript, Apollo GraphQL, Nest.js, PostgreSQL, and AWS
-- 🤖 Experienced in Machine Learning: designed and deployed ML models in production, including a hackathon-winning project
-- 🏓 Passionate about system optimization, clean architecture, and ping-pong
 
 ### Connect with me:
 
