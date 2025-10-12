@@ -1,6 +1,6 @@
 ## Hi there, I'm Valentin 👋  
 
-## I build scalable web systems  
+### I build scalable web systems  
 
 🚀 Focused on delivering performant, maintainable products using **Next.js**, **TypeScript**, **GraphQL**, **Nest.js**, **PostgreSQL**, and **AWS**.  
 🧠 Experienced in **Machine Learning** — from model design to production deployment, including a hackathon-winning project.  
